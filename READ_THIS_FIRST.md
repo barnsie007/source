@@ -1,13 +1,13 @@
 <table>
    <thead>
       <tr>
-         <th colSpan="2">DB2App-1_war.ear</th>
+         <th colSpan="2">BlueprintBundle_war.ear</th>
       </tr>
    </thead>
   <tbody>
     <tr>
       <td>Migration plan</td>
-      <td>Open Liberty</td>
+      <td>WebSphere Liberty</td>
     </tr>
     <tr>
       <td>Migration complexity</td>
@@ -18,7 +18,7 @@
      </tr>
      <tr>
         <td>Total issues</td>
-        <td>1</td>
+        <td>0</td>
      </tr>
      <tr>
         <td>Estimated effort (days)</td>
@@ -27,7 +27,7 @@
      <tr>
         <td>External dependencies</td>
         <td>
-          Databases
+          No issues found
         </td>
      </tr>
   </tbody>
